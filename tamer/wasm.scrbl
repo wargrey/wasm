@@ -1,6 +1,9 @@
 #lang scribble/manual
 
-@title{WebAssembly: A WASM Compiler Written in Typed Racket}
+@title{WASM: Yet Another WebAssembly Experiment Ground for Typed Racket}
 @author{wargrey}
 
-@italic{Sorry, I will write the documentation when it is ready to use.}
+@itemlist[
+ @item{@link["https://github.com/WebAssembly/design"]{WebAssembly Design Documentation}}
+ @item{@link["https://github.com/WebAssembly/spec"]{WebAssembly Specification}}
+ @item{@link["https://github.com/WebAssembly/wabt"]{WebAssembly Binary Toolkit}}]

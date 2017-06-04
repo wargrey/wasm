@@ -1,7 +1,7 @@
 #lang info
 
 (define collection 'use-pkg-name)
-(define pkg-desc "A WebAssembly Compiler written in Typed Racket")
+(define pkg-desc "Yet Another WebAssembly Experiment Ground for Typed Racket")
 (define pkg-authors '(wargrey))
 
 (define version "1.0")
